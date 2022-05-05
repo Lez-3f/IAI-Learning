@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.12.26)  28 APR 2022 22:20
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.12.26)  5 MAY 2022 11:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -468,7 +468,8 @@ Package: relsize 2013/03/29 ver 4.1
 Package: xeCJK-listings 2020/02/18 v3.8.2 xeCJK patch file for listings
 \l__xeCJK_listings_max_char_int=\count305
 \l__xeCJK_listings_flag_int=\count306
-) (./ai_h2.aux)
+)
+No file ai_h2.aux.
 \openout1 = `ai_h2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
@@ -487,7 +488,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
 LaTeX Font Info:    ... okay on input line 66.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
 LaTeX Font Info:    ... okay on input line 66.
- ABD: EverySelectfont initializing macros
+ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 66.
 
 *geometry* driver: auto-detecting
@@ -547,16 +548,51 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 67.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 67.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.53937> on input line 77.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 77.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 77.
  [1
 
-] (./ai_h2.aux) ) 
-Here is how much of TeX's memory you used:
- 11336 strings out of 479418
- 269063 string characters out of 5888104
- 561000 words of memory out of 5000000
- 28689 multiletter control sequences out of 15000+600000
- 543645 words of font info for 57 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 56i,6n,68p,388b,293s stack positions out of 5000i,500n,10000p,200000b,80000s
+]
 
-Output written on ai_h2.pdf (1 page).
+Package fontspec Info: Could not resolve font "FangSong/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FangSong/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FangSong/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
+(fontspec)             with options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not available
+(Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 189.
+ [2]
+File: images/Q3.jpg Graphic file (type bmp)
+<images/Q3.jpg>
+ [3] (./ai_h2.aux) ) 
+Here is how much of TeX's memory you used:
+ 11433 strings out of 479418
+ 271568 string characters out of 5888104
+ 566000 words of memory out of 5000000
+ 28742 multiletter control sequences out of 15000+600000
+ 563396 words of font info for 87 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 56i,13n,75p,388b,639s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on ai_h2.pdf (3 pages).
