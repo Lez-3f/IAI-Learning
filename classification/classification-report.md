@@ -13,10 +13,8 @@
 <figure class="half">
 
     <img src="figures/LR_DT_Accuracy_version_0.png">
+
 </figure>
-
-
-
 
 使用PCA后(5次平均)：
 
@@ -26,8 +24,6 @@
 
 发现私用PCA后DT的准确率下降了，LR的准确率无变化。
 
-对此数据而言，PCA并不能提高精度。
+对此数据而言，PCA并不能提高训练准确度。
 
 #### *TODO-2 Train*
-
-
